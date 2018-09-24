@@ -6,6 +6,10 @@ Python richmessage bot using Rocket.Chat Python SDK
 
 * Install the dependencies from `requirements.txt`
 
+* Create a Bot user in you Rocket.Chat instance
+
+* Update the bot user credentials in `richmessage_bot.py`
+
 * Run the richmessage bot.
 
 ```sh
