@@ -1,0 +1,2 @@
+git+ssh://git@github.com/kb0304/Rocket.Chat.py.SDK.git@104d6ebc02b6ff37bfd47fee05e256b7dacfee15#egg=rocketchat_py_sdk
+
